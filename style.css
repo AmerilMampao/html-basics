@@ -1,0 +1,16 @@
+h1,h2, a{
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(153, 117, 51);
+}
+
+.Ame{
+    color: rgb(0, 0, 0);
+}
+.hhh img{
+    max-height: 200px;
+    max-width: 200px;
+}
+
+body{
+    background-image: url(background-wallpaper-with-polygons-in-gradient-colors-vector.jpg);
+}
